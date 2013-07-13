@@ -14,7 +14,6 @@ col2rgb(col="#81d742")
 #Height was the recommended size, but was then increased for clarity
 jpeg(file="statsstats.jpg",height=1500,width=1500)
 
-
 #No margins
 par(mar=c(0,0,0,0))
 
